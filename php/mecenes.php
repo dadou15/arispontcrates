@@ -37,8 +37,8 @@ include('navbar.php');
                     <br>
                 <p style="font-size:large;">Au total : 40 pailles avec notre nom gravé.</p>
                 <br>
-                <p class="text-muted">Comment on les gagnes ?
-                    Une distribuée avec chaque chouchou, le reste j’ai pas décidé encore.</p>
+                <p class="text-muted">Comment on les gagnes ? 
+                    Une distribuée avec chaque chouchou, le reste surpise.</p>
 
                 </p>
                 <a class="btn btn-dark btn-social mx-2" href="https://www.instagram.com/youpai.fr/"><i class="fab fa-instagram"></i></a>

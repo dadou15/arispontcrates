@@ -180,7 +180,7 @@ include('navbar.php');
                 <div class="form-group" style=" text-align:center;">
                     <div class="form-row" style=" text-align:center;">
                         <div class="col-md-3" style=" text-align:center;"></div>
-                        <button type="submit" class="btn btn-primary col-md-2" style="text-align: center; background: #8b0404; border: solid #8b0404;">A mercredi!</button>
+                        <button type="submit" class="btn btn-primary col-md-2" style="text-align: center; background: #8b0404; border: solid #8b0404;">A Lundi !</button>
                     </div>
 
                 </div>
